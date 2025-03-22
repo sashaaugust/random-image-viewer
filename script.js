@@ -1,4 +1,4 @@
-const baseUrl = 'https://your-cdn-or-host.com/images/';  
+const baseUrl = 'images/';
 const imageCount = 2006;
 
 function showRandomImage() {
