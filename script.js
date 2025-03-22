@@ -8,3 +8,7 @@ function showRandomImage() {
 }
 
 showRandomImage();
+
+function refreshPage() {
+  location.reload();
+}
